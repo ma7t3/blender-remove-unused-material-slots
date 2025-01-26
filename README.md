@@ -8,7 +8,7 @@ This simple Blender Addon allows you to remove all unused material slots from a 
 
 Just download the release ZIP file.
 
-Then open Blender and go to Edit -> Preferences -> Addons. Click on "Instal..." and select the downloaded ZIP file. Finally enable it using the checkbox.
+Then open Blender and go to Edit -> Preferences -> Addons. Click on "Install..." and select the downloaded ZIP file. Finally enable it using the checkbox.
 
 ## How to use
 
